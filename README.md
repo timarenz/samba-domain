@@ -1,6 +1,9 @@
 # Disclaimer
 
-This fork is modified and does not persist any configuration data. Please refer to the original repo if you want to use this.
+This fork is modified and does not persist any configuration data. Please refer to the [original repo](https://github.com/Fmstrat/samba-domain) if you want to use this.
+
+A Docker image containing the changes can be found at <https://hub.docker.com/r/timarenz/samba-domain>.
+
 
 # Samba Active Directory Domain Controller for Docker
 
