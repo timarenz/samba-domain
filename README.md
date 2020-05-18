@@ -1,3 +1,7 @@
+# Disclaimer
+
+This fork is modified and does not persist any configuration data. Please refer to the original repo if you want to use this.
+
 # Samba Active Directory Domain Controller for Docker
 
 A well documented, tried and tested Samba Active Directory Domain Controller that works with the standard Windows management tools; built from scratch using internal DNS and kerberos and not based on existing containers.
